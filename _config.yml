@@ -7,7 +7,7 @@ description: "个人技术总结分享"
 keyword: "人工智能, 计算机, 机器人"
 url: "https://dunerdou.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/klovien/klovien.github.io.git" # you code repository
+github_repo: "https://github.com/dunerdou/dunerdou.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
